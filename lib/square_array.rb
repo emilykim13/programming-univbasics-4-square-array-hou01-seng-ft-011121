@@ -3,3 +3,5 @@ def square_array(numbers)
   while square_array[numbers] do
     puts square_array[numbers] 
     square_array = numbers.sqrt
+  end
+end
