@@ -3,3 +3,4 @@ def square_array(numbers)
   numbers.each { |i| arr << i ** 2 }
   numbers
 end
+
