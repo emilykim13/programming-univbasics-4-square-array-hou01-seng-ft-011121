@@ -7,5 +7,3 @@ counter = 0
   end 
   return square_array
 end
-
-
