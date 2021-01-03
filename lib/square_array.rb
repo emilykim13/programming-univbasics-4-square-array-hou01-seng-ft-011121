@@ -3,5 +3,6 @@ def square_array(numbers)
   while numbers >= 0 do
     puts numbers
     numbers.sqrt
+  end
 end
 
