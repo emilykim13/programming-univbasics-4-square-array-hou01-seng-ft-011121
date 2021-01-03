@@ -8,3 +8,4 @@ counter = 0
   return new_array
 end
 
+
